@@ -31,5 +31,5 @@ except Exception as e:
     print(f"An error occurred: {e}")
 
 finally:
-    # Close the browser after scraping and success
+    # Close the browser after scraping
     driver.quit()
