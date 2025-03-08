@@ -64,4 +64,88 @@ Mono Ethanol Amine (3743, 3744)
 Monochloracetic Acid (3757, 3760)
 Monoethanol Amine (3764, 3765)
 Motor Oil (3789, 3790)
-
+--------------------------------------------
+// Hef - 2 High Energy Fuel (2528, 2529, 2530)       DELETE                                                               
+// Heptachlor (2536, 2537, 2538)     2536 AND 2537 ARE THE SAME. 2538 IS DIFFERENT
+// Heptane (2542, 2543, 2544)       ALL DIFFERENT
+// Hexene (2579, 2581)  SAME
+// Houghto-Safe 271 (2603, 2604, 2605)    DELETE
+// Houghto-Safe 5040 (2607, 2608)     DELETE
+// Houghto-Safe 620 (2609, 2610)     DELETE
+// Hydraulic Fluids (2618, 2622)    DELETE
+// Hydraulic Oil Petro (2624, 2625, 2626, 2627, 2628, 2630)     DELETE
+// Hydraulic Oil Synthetic (2629, 2631, 2632)    DELETE
+// Hydrazine Anhydrous (2634, 2638)  SAME
+// Hydro-Drive Mih-10 Petroleum Base (2666, 2667)   DELETE
+// Hydro-Drive Mih-50 Petroleum Base (2668, 2669)    DELETE
+// Hydrobromic Acid (2670, 2671)   SAME
+// Hydrobromic Acid 40% (2673, 2676)  SAME
+// Hydrochloric Acid (2678, 2681)   SAME
+// Hydrochoric Acid 3 Molar (2684, 2685)    SAME
+// Hydrochloric Acid 37% (2686, 2687, 2691)   SAME
+// Hydrochlroic Acid Concentrated (2688, 2689)  SAME
+// HydroChoric Acid (2678-2698)   
+ 
+// 2678, 2681, 2688, 2693 ARE THE SAME
+// 2680, 2683, 2698 CAN BE DELTED
+ 
+// Hydrofluoric Acid (2701-2717)
+// *(2715, 2716)
+// 2701, 2704, 2712-2716 ARE THE SAME
+// 2710 CAN BE DELTED
+ 
+// HydroFluorosilicic Acid (2718-2722) 2718, 2719, 2720, 27222 ARE THE SAME
+// Hydrogen Cyanide (2728, 2729)  SAME
+// Hydrogen Fluoride Anhyrdous (2735, 2736, 2737)  SAME
+// Hydrogen Gas (2738, 2739)  SAME
+// Hydrogen Peroxide (2741-2752)
+ 
+// 2741, 2743, 2752 ARE THE SAME
+// 2742, 2748 ARE THE SAME
+// 2744, 2750 ARE THE SAME
+// 2747, 2751 ARE THE SAME
+ 
+// Hydrogen Sulfide (2753-2767)
+ 
+// 2753, 2754, 2758, 2759, 2760, 2761, 2764, 2767 ARE THE SAME - HYDROGEN SULFIDE AQUEOUS
+// 2755, 2756, 2757, 2762, 2763 ARE THE SAME - HYDROGEN SULFIDE ANHYDROUS
+ 
+// Hydrolube Water & Ethylene Glycol (2770, 2771)    SAME
+// Hydroxyacetic Acid (2785, 2786)   DIFFERENT
+// Hyjet (2790-2796)  DELETE
+// I-Propyl Acetate (2802,2803)   SAME
+// Ink (2810-2812)   DELETE
+// Iron 3-Chloride (2829,2834)  SAME
+// Isooctane (2911, 2912)  SAME
+// Isopropanol Isoprpyl Alcohol (2917,2920)  SAME
+// *(2937-2968)  DELETE
+// Kel F Liquids (2972,2973)   DELETE
+// Kerosene (2975-2977)   DELETE
+// Keystone #87Hx-Grease (2989,2990)   DELETE
+// Lacquer Thinner (3002, 3003)   DELETE
+// Lacquer (2999, 3004)  SAME
+// Lactam-Amino Acids (3005, 3007)  SAME
+// Lactic Acid (3009, 3011)  DIFFERENT BUT 3009 AND 3010 ARE THE SAME
+// Lard (3015, 3018)    DELETE
+// Lead Sulfamate (3044, 3047)   SAME
+// Lehigh (3052, 3055)   DELETE 3052-3055
+// Linolenic Acid (3093, 3097)   DIFFERENT
+// liquified Petroleum Gas (3100, 3101)   DELETE
+// Lubricating Oils Diester (3139, 3141, 3142)  DELETE
+// Lye Ca Oh 2 Calcium Hydroxide (3149, 3150)   SAME
+// Mercury Vapor (3261-3263)  SAME
+// Methyl Aceto Acetate(3287, 3288)   SAME
+// Methyl Amyl Acohol (3300, 3301)  SAME - METHYL AMYL ALCOHOL
+// Methyl Amyl Ketone (3303, 3304)   SAME
+// Methyl Cellulose (3323, 3324)   SAME
+// Methylated Spirits (3390, 3391)  SAME
+// Mil (3410-3662)  DELETE
+// Milk (3663, 3667)  DELETE
+// Mineral Oils (3670, 3672)  DELETE
+// Mineral Spirits (3674, 3675)  DELETE
+// Mobil 24 Dte (3693, 3694)   DELETE
+// Mobil Gas Wa200 Type A Auto Trans. Fluid (3696, 3697, 3709)  DELETE
+// Mono Ethanol Amine (3743, 3744)  SAME
+// Monochloracetic Acid (3757, 3760)  SAME
+// Monoethanol Amine (3764, 3765)  SAME
+// Motor Oil (3789, 3790)  DELETE
